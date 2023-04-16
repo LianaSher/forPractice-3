@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forPractice-3/static/css/main.c3d5249d.css",
+    "main.js": "/forPractice-3/static/js/main.fbf9359e.js",
+    "index.html": "/forPractice-3/index.html",
+    "main.c3d5249d.css.map": "/forPractice-3/static/css/main.c3d5249d.css.map",
+    "main.fbf9359e.js.map": "/forPractice-3/static/js/main.fbf9359e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.fbf9359e.js"
+  ]
+}
